@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EJBConvert:ejb-JAR">
+    <output-path>$PROJECT_DIR$/out/artifacts/EJBConvert_ejb_exploded.rar</output-path>
+    <root id="archive" name="EJBConvert_ejb-JAR.jar">
+      <element id="javaee-facet-resources" facet="EJBConvert/ejb/EJB" />
+      <element id="module-output" name="EJBConvert" />
+    </root>
+  </artifact>
+</component>
