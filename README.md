@@ -8,3 +8,4 @@
 
 * 这个实验的难点主要在于配环境，代码真的没几行
 * 如果使用 JBoss ，请一定使用 JBoss 4.x 的版本，7.x 直接就报错
+* 如果发现报 Cannot instantiate 错误，把 JBoss client 文件夹内的 jar 包导入工程
